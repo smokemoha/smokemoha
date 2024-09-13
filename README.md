@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm sadisu</h1>
-<h3 align="center">A passionate full-stack developer from Nigeria</h3>
+<h3 align="center">A passionate full-stack,soft-ware programmer</h3>
 <img align="right"alt="code" width="400" src="https://th.bing.com/th/id/R.2db039b3828b1744f7bffb3cae192583?rik=487nRW8KEytyjA&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smokemoha&label=Profile%20views&color=0e75b6&style=flat" alt="smokemoha" /> </p>
