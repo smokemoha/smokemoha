@@ -1,5 +1,5 @@
 👋 Hello, I'm Sadisu Mohammed a software developer with experience in a variety of programming languages and tools, as showcased on my GitHub repository. I quickly adapt to any codebase and consistently deliver results.
-- 🔭 I’m currently working on deepening my Javaand spring skills by building projects of increasing complexity.
+- 🔭 I’m currently working on deepening my Java and spring skills by building projects of increasing complexity.
 - 🌱 I'm also exploring Blockchain, AI/ML and Cybersecurity. I'm open to collaboration on innovative projects.
 - 👯For inquiries, please check the contact information on the left-hand side of this page, I aim to respond within 24 hours.
 <!--
