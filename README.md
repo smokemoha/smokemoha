@@ -1,10 +1,12 @@
-👋 Hello, I'm Sadisu Mohammed, a software engineer driven by curiosity, and a deep passion for solving complex problems through code. My GitHub portfolio reflects a versatile command of multiple programming languages and tools, and I pride myself on my ability to quickly adapt to any codebase while consistently delivering meaningful, reliable results.
+👋 Hello, I’m Sadisu Mohammed—a software engineer guided by curiosity, shaped by discipline, and driven by an enduring fascination with how systems think, scale, and evolve.
 
-🔭 I'm currently expanding my expertise by tackling projects that challenge my thinking across various domains, including backend engineering, distributed systems, and architectural design.
+I see programming not as a task, but as a language of structure and possibility—an instrument for solving real problems through elegant, intentional design. My GitHub is a living archive of this exploration: from foundational backend applications in Java and Spring Boot, to experimental forays into Python scripting, Node.js, and cross-platform mobile development.
 
-🌱 I’m also delving into emerging technologies such as Blockchain, Artificial Intelligence/Machine Learning, Android Automation, and Cybersecurity. I’m especially keen on collaborative, forward-thinking projects that explore new ground and redefine boundaries.
+🔭 I'm currently working on improving my backend development skills, especially in Java and Spring Boot, through self-driven projects and continuous learning.
 
-👯 For professional inquiries, please refer to the contact information provided on the left side of this page. I aim to respond within 24 hours.
+🌱 My curiosity extends into emerging domains such as Blockchain, AI/ML, and Android automation—fields I approach not for trend’s sake, but for their potential to reshape interaction, and intelligence.
+
+👯 I value collaboration that embraces both technical rigor and creative discourse—projects that challenge assumptions, encourage shared learning, and invite deeper engagement with the craft.
 <!--
 **smokemoha/smokemoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
