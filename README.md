@@ -2,11 +2,11 @@
 
 I see programming not as a task, but as a language of structure and possibility an instrument for solving real problems through elegant, intentional design. My GitHub is a living archive of this exploration: from foundational backend applications in Java and Spring Boot, to experimental forays into Python scripting, Node.js, and cross-platform mobile development.
 
-🔭 I'm currently working on improving my backend development skills, especially in Java and Spring Boot, through self-driven projects and continuous learning.
+🔭 I'm currently working on improving my backend development skills, especially in Java and Spring Boot, through self driven projects and continuous learning.
 
-🌱 My curiosity extends into emerging domains such as Blockchain, AI/ML, and Android automation—fields I approach not for trend’s sake, but for their potential to reshape interaction, and intelligence.
+🌱 My curiosity extends into emerging domains such as Blockchain, AI/ML, and Android automation fields I approach not for trend’s sake, but for their potential to reshape interaction, and intelligence.
 
-👯 I value collaboration that embraces both technical rigor and creative discourse—projects that challenge assumptions, encourage shared learning, and invite deeper engagement with the craft.
+👯 I value collaboration that embraces both technical rigor and creative discourse projects that challenge assumptions, encourage shared learning, and invite deeper engagement with the craft.
 <!--
 **smokemoha/smokemoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
