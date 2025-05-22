@@ -1,7 +1,10 @@
-👋 Hello, I'm Sadisu Mohammed a software developer with experience in a variety of programming languages and tools, as showcased on my GitHub repository. I quickly adapt to any codebase and consistently deliver results.
-- 🔭 I’m currently working on deepening my Java and spring skills by building projects of increasing complexity.
-- 🌱 I'm also exploring Blockchain, AI/ML and Cybersecurity. I'm open to collaboration on innovative projects.
-- 👯For inquiries, please check the contact information on the left-hand side of this page, I aim to respond within 24 hours.
+👋 Hello, I'm Sadisu Mohammed, a software engineer driven by curiosity, and a deep passion for solving complex problems through code. My GitHub portfolio reflects a versatile command of multiple programming languages and tools, and I pride myself on my ability to quickly adapt to any codebase while consistently delivering meaningful, reliable results.
+
+🔭 I'm currently expanding my expertise by tackling projects that challenge my thinking across various domains, including backend engineering, distributed systems, and architectural design.
+
+🌱 I’m also delving into emerging technologies such as Blockchain, Artificial Intelligence/Machine Learning, Android Automation, and Cybersecurity. I’m especially keen on collaborative, forward-thinking projects that explore new ground and redefine boundaries.
+
+👯 For professional inquiries, please refer to the contact information provided on the left side of this page. I aim to respond within 24 hours.
 <!--
 **smokemoha/smokemoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
