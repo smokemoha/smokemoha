@@ -1,6 +1,6 @@
-👋 Hello, I’m Sadisu Mohammed—a software engineer guided by curiosity, shaped by discipline, and driven by an enduring fascination with how systems think, scale, and evolve.
+👋 Hello, I’m Sadisu Mohammed a software engineer guided by curiosity, shaped by discipline, and driven by an enduring fascination with how systems think, scale, and evolve.
 
-I see programming not as a task, but as a language of structure and possibility—an instrument for solving real problems through elegant, intentional design. My GitHub is a living archive of this exploration: from foundational backend applications in Java and Spring Boot, to experimental forays into Python scripting, Node.js, and cross-platform mobile development.
+I see programming not as a task, but as a language of structure and possibility an instrument for solving real problems through elegant, intentional design. My GitHub is a living archive of this exploration: from foundational backend applications in Java and Spring Boot, to experimental forays into Python scripting, Node.js, and cross-platform mobile development.
 
 🔭 I'm currently working on improving my backend development skills, especially in Java and Spring Boot, through self-driven projects and continuous learning.
 
