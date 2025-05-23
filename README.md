@@ -4,7 +4,7 @@ I see programming not as a task, but as a language of structure and possibility 
 
 🔭 I'm currently working on improving my backend development skills, especially in Java and Spring Boot, through self driven projects and continuous learning.
 
-🌱 My curiosity extends into emerging domains such as Blockchain, AI/ML, and Android automation fields I approach not for trend’s sake, but for their potential to reshape interaction, and intelligence.
+🌱 My curiosity extends into emerging domains such as Blockchain, AI/ML, Heavy Machine Automaation, and Android automation fields I approach not for trend’s sake, but for their potential to reshape interaction, and intelligence.
 
 👯 I value collaboration that embraces both technical rigor and creative discourse projects that challenge assumptions, encourage shared learning, and invite deeper engagement with the craft.
 <!--
