@@ -5,7 +5,7 @@ I approach programming as a tool for creating structured, efficient, and elegant
 
 Currently:
 
-{}   🔭 Deepening my expertise in **Java and Spring Boot** through dedicated projects and continuous learning, focusing on building production-ready backend services.
+{}   🔭 Deepening my expertise in {Java and Spring Boot} through dedicated projects and continuous learning, focusing on building production-ready backend services.
 {}   🌱 Exploring the potential of emerging technologies like {Heavy Machine Automation}, AI/ML, and Blockchain, seeking to understand their practical applications and impact.
 
 Collaboration:
