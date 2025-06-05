@@ -1,12 +1,19 @@
-👋 Hello, I’m Sadisu Mohammed a software engineer guided by curiosity, shaped by discipline, and driven by an enduring fascination with how systems think, scale, and evolve.
 
-I see programming not as a task, but as a language of structure and possibility an instrument for solving real problems through elegant, intentional design. My GitHub is a living archive of this exploration: from foundational backend applications in Java and Spring Boot, to experimental forays into Python scripting, Node.js, and cross-platform mobile development.
+Hello! I'm Sadisu Mohammed, a Software Engineer specializing in backend systems development with a keen interest in industrial automation. My work is driven by a fascination with how systems are designed, scaled, and optimized for real-world problem-solving.
 
-🔭 I'm currently working on improving my backend development skills, especially in Java and Spring Boot, through self driven projects and continuous learning.
+I approach programming as a tool for creating structured, efficient, and elegant solutions. My focus lies primarily in backend development using {Java and Spring Boot}; where I strive to build robust and scalable applications. My GitHub repositories reflect this journey, showcasing projects in backend development alongside explorations into Python scripting and other technologies.
 
-🌱 My curiosity extends into emerging domains such as Blockchain, AI/ML, Heavy Machine Automaation, and Android automation fields I approach not for trend’s sake, but for their potential to reshape interaction, and intelligence.
+Currently:
 
-👯 I value collaboration that embraces both technical rigor and creative discourse projects that challenge assumptions, encourage shared learning, and invite deeper engagement with the craft.
+{}   🔭 Deepening my expertise in **Java and Spring Boot** through dedicated projects and continuous learning, focusing on building production-ready backend services.
+{}   🌱 Exploring the potential of emerging technologies like {Heavy Machine Automation}, AI/ML, and Blockchain, seeking to understand their practical applications and impact.
+
+Collaboration:
+
+{}   👯 I'm eager to collaborate on projects that demand technical rigor and foster shared learning, particularly those involving complex backend challenges or innovative automation solutions.
+
+Feel free to explore my repositories and connect if you share similar interests or see potential for collaboration.
+
 <!--
 **smokemoha/smokemoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
