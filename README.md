@@ -7,7 +7,7 @@ Currently:
 
 {}   🔭 Deepening my expertise in {Java and Spring Boot} through dedicated projects and continuous learning, focusing on building production-ready backend services.
 
-{}   🌱 Exploring the potential of emerging technologies like {Heavy Machine Automation}, AI/ML, and Blockchain, seeking to understand their practical applications and impact.
+{}   🌱 Exploring the potential of emerging technologies like {Heavy Machine Automation}, {Cyber Security}, AI/ML, and Blockchain, seeking to understand their practical applications and impact.
 
 Collaboration:
 
