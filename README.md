@@ -1,29 +1,57 @@
+# Hi there, I'm Sadisu Mohammed! 👋
+
+I'm a Software Engineer with a strong foundation in backend systems development, now making a dedicated transition into the dynamic field of Cybersecurity. My passion for building robust and optimized systems has evolved into a deep commitment to securing them against evolving threats. I believe my unique blend of development expertise and a proactive security mindset allows me to approach cybersecurity challenges from a comprehensive perspective.
+
+My journey into cybersecurity is driven by hands-on learning and practical application. I've gained valuable experience through:
+
+🛡️ {Cybersecurity Certifications}: Including Cisco Introduction to Cybersecurity, Cyber Job Simulation, and Cybersecurity Analyst Job Simulation.
 
 
-Hello! I'm Sadisu Mohammed, a Software Engineer making a dedicated transition into the field of Cybersecurity. My fascination with how systems are designed and scaled has naturally evolved into a passion for securing them. I believe that building secure systems starts at the code level, and my background in backend development with Java and Spring Boot provides me with a unique perspective on application security and the secure software development lifecycle (SSDLC).
+⚔️ {Intensive Simulations}: Actively participated in the Deloitte Cyber Simulation, where I gained practical experience in web activity incident investigation and log analysis.
 
-My journey into cybersecurity is not just an interest, it's an active pursuit. I have built a strong foundation through the Cisco Introduction to Cybersecurity certification and have gained practical, hands-on experience through immersive job simulations, including the Cybersecurity Analyst Job Simulation and the intensive Deloitte Cyber Simulation. These experiences have allowed me to apply my analytical skills to real-world scenarios, such as web activity incident investigation and log analysis, which you can find documented in my GitHub portfolio.
 
-Currently, I am channeling my focus into two key areas of cybersecurity:
+💻 {Hands-on Labs & Projects}: Continuously building and experimenting in my home lab, focusing on both offensive (penetration testing) and defensive (security operations, incident response) security techniques. My GitHub repositories reflect this journey.
 
-🛡️ {Defensive Security (Blue Team)} I am actively developing my skills in security operations (SecOps), incident response, and threat detection. I am building and expanding my home lab to practice with tools like Wireshark, Nmap, and SIEM platforms, and I am passionate about the process of identifying, analyzing, and mitigating threats.
+--- 
 
-⚔️ {Offensive Security (Red Team)} To be a great defender, one must understand the attacker's mindset. I am also exploring penetration testing methodologies, learning how to identify and exploit vulnerabilities in a controlled and ethical manner. This dual perspective allows me to approach security challenges with a more holistic and effective strategy.
+{My Focus Areas}
 
-I am eager to bring my software engineering background, my passion for problem-solving, and my growing cybersecurity expertise to an entry-level cybersecurity analyst role. I am a dedicated and fast learner, committed to continuous growth in this ever-evolving field.
+{}   Secure Software Development:Leveraging my background in Java and Spring Boot to understand and implement security best practices throughout the software development lifecycle (SSDLC).
 
-Feel free to explore my projects on GitHub, and let's connect! I'm always open to discussing cybersecurity, sharing knowledge, and exploring opportunities to contribute to a security-conscious organization.
-<!--
-**smokemoha/smokemoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+{}   Security Operations (SecOps): Deep diving into threat detection, incident response, log analysis, and security monitoring.
 
-Here are some ideas to get you started:
+{}   Vulnerability Assessment & Penetration Testing:** Exploring methodologies and tools to identify and ethically exploit system weaknesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{}   Network & System Security: Building on foundational knowledge to secure complex network infrastructures and operating systems.
+
+--- 
+
+{Explore My Work}
+
+Check out my dedicated cybersecurity projects and write-ups in my [cybersecurity-portfolio](https://github.com/smokemoha/cybersecurity-portfolio) repository. 
+You'll find detailed documentation of my labs, simulations, and practical applications of cybersecurity concepts.
+
+{Featured Cybersecurity Projects}
+    {}   [Web Activity Incident Investigation](https://github.com/smokemoha/-Cybersecurity-Log-Analysis): A deep dive into log analysis and incident response.
+    {}   [My Cybersecurity Portfolio](https://github.com/smokemoha/cybersecurity-portfolio): Certifications, labs, tools, and writeups.
+
+--- 
+
+{Skills & Technologies}
+
+{}   Cybersecurity: Network Security, Incident Response, Threat Analysis, Vulnerability Management, Security Operations, Application Security, Digital Forensics (basic), Ethical Hacking (basic).
+
+{}   Tools: Wireshark, Nmap, Metasploit (basic), Burp Suite (Community), SIEM concepts, Linux (Kali, Ubuntu), Windows, VirtualBox, VMware.
+
+{}   Programming & Scripting: Python (for security automation), Java, Spring Boot, Bash, PowerShell.
+
+--- 
+
+{Let's Connect}
+
+I'm actively seeking entry-level cybersecurity roles where I can apply my unique skill set and continue to grow. I'm eager to collaborate on projects that enhance security posture and foster continuous learning.
+
+{}   [Connect with me on LinkedIn](https://www.linkedin.com/in/sadisumr/)
+
+{}   Feel free to reach out for collaborations or discussions!
+  
