@@ -2,7 +2,7 @@
 
 Hello! I'm Sadisu Mohammed, a Software Engineer making a dedicated transition into the field of Cybersecurity. My fascination with how systems are designed and scaled has naturally evolved into a passion for securing them. I believe that building secure systems starts at the code level, and my background in backend development with Java and Spring Boot provides me with a unique perspective on application security and the secure software development lifecycle (SSDLC).
 
-My journey into cybersecurity is not just an interest; it's an active pursuit. I have built a strong foundation through the Cisco Introduction to Cybersecurity certification and have gained practical, hands-on experience through immersive job simulations, including the Cybersecurity Analyst Job Simulation and the intensive Deloitte Cyber Simulation. These experiences have allowed me to apply my analytical skills to real-world scenarios, such as web activity incident investigation and log analysis, which you can find documented in my GitHub portfolio.
+My journey into cybersecurity is not just an interest, it's an active pursuit. I have built a strong foundation through the Cisco Introduction to Cybersecurity certification and have gained practical, hands-on experience through immersive job simulations, including the Cybersecurity Analyst Job Simulation and the intensive Deloitte Cyber Simulation. These experiences have allowed me to apply my analytical skills to real-world scenarios, such as web activity incident investigation and log analysis, which you can find documented in my GitHub portfolio.
 
 Currently, I am channeling my focus into two key areas of cybersecurity:
 
