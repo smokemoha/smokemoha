@@ -2,17 +2,16 @@
 
 I'm a Software Engineer with a strong foundation in backend systems development, now making a dedicated transition into the dynamic field of Cybersecurity. My passion for building robust and optimized systems has evolved into a deep commitment to securing them against evolving threats. I believe my unique blend of development expertise and a proactive security mindset allows me to approach cybersecurity challenges from a comprehensive perspective.
 
-My journey into cybersecurity is driven by hands-on learning and practical application. I've gained valuable experience through:
+My journey into cybersecurity is driven by hands-on learning and practical application. I've recently completed an intensive networking course, which provided a robust foundation, and immediately applied that knowledge to practical security projects. I've gained valuable experience through:
 
 🛡️ {Cybersecurity Certifications}: Including Cisco Introduction to Cybersecurity, Cyber Job Simulation, and Cybersecurity Analyst Job Simulation.
 
-
 ⚔️ {Intensive Simulations}: Actively participated in the Deloitte Cyber Simulation, where I gained practical experience in web activity incident investigation and log analysis.
 
+💻 {Hands-on Labs & Projects}: Continuously building and experimenting in my home lab, focusing on both offensive (penetration testing) and defensive (security operations, incident response) security techniques. My GitHub repositories reflect this journey, including:
+    *   **Focused Network Analysis & Security Hardening Lab: Metasploitable2 Edition**: A comprehensive project demonstrating network reconnaissance, vulnerability assessment, and practical security hardening using Nmap, Wireshark, and firewall configurations. This project directly applied my recent networking course knowledge to real-world security scenarios.
 
-💻 {Hands-on Labs & Projects}: Continuously building and experimenting in my home lab, focusing on both offensive (penetration testing) and defensive (security operations, incident response) security techniques. My GitHub repositories reflect this journey.
-
---- 
+---
 
 {My Focus Areas}
 
@@ -24,7 +23,7 @@ My journey into cybersecurity is driven by hands-on learning and practical appli
 
 {}   Network & System Security: Building on foundational knowledge to secure complex network infrastructures and operating systems.
 
---- 
+---
 
 {Explore My Work}
 
@@ -32,10 +31,11 @@ Check out my dedicated cybersecurity projects and write-ups in my [cybersecurity
 You'll find detailed documentation of my labs, simulations, and practical applications of cybersecurity concepts.
 
 {Featured Cybersecurity Projects}
+    {}   [Focused Network Analysis & Security Hardening Lab: Metasploitable2 Edition](https://github.com/smokemoha/-Cybersecurity-Lab-Metasploitable2): A hands-on project demonstrating practical network analysis, vulnerability identification, and security hardening.
     {}   [Web Activity Incident Investigation](https://github.com/smokemoha/-Cybersecurity-Log-Analysis): A deep dive into log analysis and incident response.
     {}   [My Cybersecurity Portfolio](https://github.com/smokemoha/cybersecurity-portfolio): Certifications, labs, tools, and writeups.
 
---- 
+---
 
 {Skills & Technologies}
 
@@ -45,7 +45,7 @@ You'll find detailed documentation of my labs, simulations, and practical applic
 
 {}   Programming & Scripting: Python (for security automation), Java, Spring Boot, Bash, PowerShell.
 
---- 
+---
 
 {Let's Connect}
 
@@ -54,4 +54,5 @@ I'm actively seeking entry-level cybersecurity roles where I can apply my unique
 {}   [Connect with me on LinkedIn](https://www.linkedin.com/in/sadisumr/)
 
 {}   Feel free to reach out for collaborations or discussions!
-  
+
+
