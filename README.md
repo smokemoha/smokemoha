@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sadisu Mohammed  
 
-## 🚀 SOC Enthusiast & Threat Hunting Enthusiast in Training  
+## 🚀 SOC Enthusiast in Training  
 
 I’m on a mission to **detect, understand, and neutralize cyber threats** before they cause harm.  
 My journey started in **software engineering (Java + Spring Boot)**, but my passion for protecting systems led me into **cybersecurity**.  
